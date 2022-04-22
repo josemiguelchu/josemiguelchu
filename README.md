@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋, I´m José Miguel
+### but friends call me José
+
+##### Currently, i´m a Cross-platform Application Developer in formation; been an Energy Efficiency Technician is pointless within LSC logics :dizzy_face:
+
 
 <!--
 **josemiguelchu/josemiguelchu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
